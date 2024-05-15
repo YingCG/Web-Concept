@@ -1,0 +1,21 @@
+.big-bold {
+  font-size: 200px;
+  font-family: serif;
+  transition: font-size 4s, font-family 4s;
+}
+
+.big-bold:hover {
+  font-size: 180px;
+  color: #7f27ff;
+  font-family: sans-serif;
+  transition: 0.5s;
+}
+
+.big-bold:hover::after {
+  content: "HTML CSS big and bold expression";
+  display: block;
+  font-family: sans-serif;
+  color: #007f73;
+  font-size: 80px;
+  margin-top: 20px;
+}
