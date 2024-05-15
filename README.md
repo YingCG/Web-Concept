@@ -24,3 +24,7 @@ We are creating how to change the background color to different color theme
 ### big_n_bold
 This exercise is to understand how to connect html & css while we exploring more of the HTML elements in details.
 
+## Exercise 5 - Create your first blog and Publish on GitHub
+### create_a_blog
+This is instruction how you set up your blog. We expect you are creating a fun blog for yourself to share your experience while having fun learning.
+
