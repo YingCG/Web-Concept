@@ -15,7 +15,7 @@ To understand how thing work together in one document. We are creating how to ch
 To learn how to seperate the file with reference, we have a little transition as fun experience. 
 We are creating how to change the background color to different color theme
 
-## Exercise 3 - Basic of html and css  
+## Exercise 3 - Bright and Dark them using only html and css  
 ### dark_bright_html_css
 This is extra for advance learning to create dark / bright theme without JavaScript.
 We are creating how to change the background color to different color theme
