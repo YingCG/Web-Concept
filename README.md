@@ -19,7 +19,8 @@ We are creating how to change the background color to different color theme
 This is extra for advance learning to create dark / bright theme without JavaScript.
 We are creating how to change the background color to different color theme
 
-## Exercise 3 - Bright and Dark them using only html and css
+## Exercise 3 - Basic of html and css
+### shapes
 This is a practice we learn how to style the class using shapes
 
 ## Exercise 4 - Basic of html and css 
